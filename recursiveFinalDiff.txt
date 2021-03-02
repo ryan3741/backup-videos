@@ -1,0 +1,8 @@
+Files in finalVideoNamesBackup.txt but not in recursiveVideoNamesDrive.txt:
+
+1001_6.mp4
+
+
+Files in recursiveVideoNamesDrive.txt but not in finalVideoNamesBackup.txt:
+
+1001_5.mp4
